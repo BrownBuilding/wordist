@@ -6,6 +6,5 @@ Tool for analyzing distance between words
 python3 wordist <file> [<stop-word-list-file>]
 ```
 
-Prints relation as JSON to stdout.
+Prints relations as JSON to stdout.
 
- 
